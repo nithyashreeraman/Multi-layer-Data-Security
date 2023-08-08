@@ -1,0 +1,4 @@
+In this project, we use three layers of data security
+First, the message is encrypted using AES algorithm
+The encrypted message is then hid in an image using image steganography
+Finally, the stego image is encrypted using visual cryptography.
